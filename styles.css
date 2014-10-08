@@ -1,0 +1,22 @@
+html{
+	padding:0;
+	margin:0;
+}
+body{
+	overflow-y:hidden;
+  padding:0;
+	margin:0;
+	
+}
+#div1 {
+   position:relative;
+   padding:0;
+	 padding-top:10%;
+	 padding-bottom:90%;
+   margin:0 auto;
+   color:white;
+   background:teal;
+	 text-align:center;
+   font-size:2rem;
+
+}	
